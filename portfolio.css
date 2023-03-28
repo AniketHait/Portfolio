@@ -1,0 +1,39 @@
+.body {
+    background-color: #ced3e7;
+    color: #1d1a1a;
+
+
+    font: normal 16px Arial, Helvetica, sans-serif;
+    margin:0; 
+    text-align:center;
+    line-height: 18px;
+
+}
+
+.margin{
+    width:80%;
+    padding:5px;
+    border:5px solid blue;
+    margin:120px;
+    box-align:center;
+
+      
+}
+.project{
+    border:black;
+    margin:black;
+    background-color:aqua;
+    border-style:solid;
+}
+
+.project_headline{
+    border:black;
+    margin:black;
+    background-color:rgb(212, 163, 89);
+    border-style:solid;
+}
+
+.submit{
+    background-image:blue;
+    text-decoration-color: aliceblue;
+}
